@@ -2,7 +2,7 @@
   "name": "monsters-app",
   "version": "0.1.0",
   "private": true,
-  "hompage": "https://Hope21x.github.io/monsters-search",
+  "homepage": "https://github.com/Hope21x/monsters.git",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
